@@ -6,6 +6,7 @@ TASK 1
 
 1. Calculate and print the value of the expression
 ![image](https://user-images.githubusercontent.com/64169187/219968985-13b623bb-1eb5-469b-8ec9-2b803db5c759.png)
+
 а=7.63; 
 b=-4.85,
 xi=(-3.6; 7.8; -4.2; 3.5; -0.6; 2.8; 4.2).
